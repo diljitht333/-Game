@@ -1,0 +1,8 @@
+{
+  "appId": "com.blockpuzzle.gems",
+  "appName": "Block Puzzle",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#0b1230"
+  }
+}
